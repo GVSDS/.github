@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.github.com/u/193612261?s=200&v=4" width="270px" />
+  <img src="https://avatars.githubusercontent.com/u/193612261?v=4" width="270px" />
   <p align="center">Galaxy Vantone Software Development Studio</p>
   <p align="center">🌌银河万通软件开发工作室🌌</p>
 </p>
