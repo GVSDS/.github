@@ -63,7 +63,7 @@ To become a leading software development studio, driving the future with technol
 # Galaxy Vantone Software Development Studio
 
 ## 🚀 关于我们
-银河万万通软件开发工作室（Galaxy Vantone Software Development Studio）致力于提供高端、创新的软件解决方案
+银河万通软件开发工作室（Galaxy Vantone Software Development Studio）致力于提供高端、创新的软件解决方案
 
 涉及包括Python、C、C++、汇编、Html、JavaScript、CSS、人工智能、金融、操作系统、投资、挖矿、服务器、数据链、页面设计、网络等几十上百个不同方面、不同架构、不同内容的领域
 
