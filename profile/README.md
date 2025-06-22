@@ -67,7 +67,7 @@ To become a leading software development studio, driving the future with technol
 
 涉及包括Python、C、C++、汇编、Html、JavaScript、CSS、人工智能、金融、操作系统、投资、挖矿、服务器、数据链、页面设计、网络等几十上百个不同方面、不同架构、不同内容的领域
 
-我们为兴趣而生，无论什么，我们都原意接受和尝试
+我们为兴趣而生，无论什么，我们都愿意接受和尝试
 
 ## 🔧 技术栈
 ![Python](https://img.shields.io/badge/Python-3.12.0+-blue?logo=python)
