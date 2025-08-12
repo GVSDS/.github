@@ -80,7 +80,7 @@ To become a leading software development studio, driving the future with technol
 ---
 
 ## 📞 联系我们
-📧 Email: wyt18222152539wyt@163.com
+📧 Email: wyt18222152539wyt@163.com / wyt@gvsds.com / support@gvsds.com
 🌐 官网: [银河万通软件开发工作室](https://www.gvsds.com)
 📱 微信: GVSADS
 
